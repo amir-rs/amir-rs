@@ -13,7 +13,7 @@
 
 ## About Me ;) 💫
 
-Hello, I'm Amir Reza.
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -34,7 +34,7 @@ CI / CD                   | [![GitHub Actions Badge](https://img.shields.io/badg
 ## Contact Me 🚀
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amir-rs)
-- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/)
+- [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/notfound_ars)
 - [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/username?utm_medium=copy_link)
 - [![Google Drive](https://img.shields.io/badge/-Google%20Drive-4285F4?style=flat&logo=Google-Drive&logoColor=white)]()
@@ -45,7 +45,7 @@ CI / CD                   | [![GitHub Actions Badge](https://img.shields.io/badg
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-Amir Reza Salehi ♥️
+
 
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
