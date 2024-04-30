@@ -33,15 +33,8 @@ CI / CD                   | [![GitHub Actions Badge](https://img.shields.io/badg
 
 ## Contact Me 🚀
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amir-rs)
 - [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=Telegram&logoColor=white)](https://t.me/notfound_ars)
-- [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=WhatsApp&logoColor=white)](https://wa.me/+)
-- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/username?utm_medium=copy_link)
-- [![Google Drive](https://img.shields.io/badge/-Google%20Drive-4285F4?style=flat&logo=Google-Drive&logoColor=white)]()
-- [![Personal Website](https://img.shields.io/badge/-Personal%20Website-882D17?style=flat&logo=Google-Chrome&logoColor=white)](https://amir-rs.github.io/Resume)
-- [![Miro](https://img.shields.io/badge/-Miro-FFBF00?style=flat&logo=Miro&logoColor=white)](https://miro.com/)
-- [![Medium](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=Medium&logoColor=white)](https://medium.com/)
-- [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/)
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
